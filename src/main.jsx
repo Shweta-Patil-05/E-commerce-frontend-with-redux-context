@@ -9,6 +9,7 @@ import './more.css';
 import './accounts.css';
 import './visuals.css';
 import './polish.css';
+import './advice.css';
 
 window.addEventListener('error',event=>{
   const image=event.target;

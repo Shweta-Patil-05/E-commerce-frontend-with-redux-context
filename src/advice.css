@@ -1,0 +1,6 @@
+.api-advice{display:grid;gap:12px;background:#fffdfa;padding:18px 20px;margin:14px 0;color:#302e29}
+.api-advice .eyebrow{font-size:9px;letter-spacing:.14em;color:#75806a}
+.advice-summary-text{margin:0;font:500 17px/1.5 'Playfair Display',serif}
+.advice-note-list{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px;margin:0;padding:0;list-style:none}
+.advice-note-list li{display:grid;align-content:start;gap:5px;padding:12px;background:#f6f3ed;font-size:11px;line-height:1.5}
+.advice-note-list b{font-size:9px;letter-spacing:.08em;text-transform:uppercase;color:#68755f}
